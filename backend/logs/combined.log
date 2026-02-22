@@ -1,0 +1,116 @@
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2026-02-21T16:10:05.684Z"}
+{"level":"info","message":"User registered: john@example.com","timestamp":"2026-02-21T16:37:16.745Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:37:57.275Z"}
+{"ip":"::1","level":"error","message":"TypeError: Cannot read properties of undefined (reading 'refreshToken')","method":"POST","stack":"TypeError: Cannot read properties of undefined (reading 'refreshToken')\n    at logout (C:\\Users\\manis\\Subx technologies\\backend\\src\\controllers\\authController.js:99:40)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:30:7\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:21:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-02-21T16:40:02.584Z","url":"/api/auth/logout"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:40:11.558Z"}
+{"ip":"::1","level":"error","message":"TypeError: Cannot read properties of undefined (reading 'refreshToken')","method":"POST","stack":"TypeError: Cannot read properties of undefined (reading 'refreshToken')\n    at logout (C:\\Users\\manis\\Subx technologies\\backend\\src\\controllers\\authController.js:99:40)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:30:7\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:21:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-02-21T16:40:25.745Z","url":"/api/auth/logout"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:42:52.465Z"}
+{"ip":"::1","level":"error","message":"ReferenceError: jwt is not defined","method":"POST","stack":"ReferenceError: jwt is not defined\n    at logout (C:\\Users\\manis\\Subx technologies\\backend\\src\\controllers\\authController.js:119:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-02-21T16:43:05.799Z","url":"/api/auth/logout"}
+{"ip":"::1","level":"error","message":"ReferenceError: jwt is not defined","method":"POST","stack":"ReferenceError: jwt is not defined\n    at logout (C:\\Users\\manis\\Subx technologies\\backend\\src\\controllers\\authController.js:119:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-02-21T16:43:21.149Z","url":"/api/auth/logout"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:43:25.077Z"}
+{"ip":"::1","level":"error","message":"ReferenceError: jwt is not defined","method":"POST","stack":"ReferenceError: jwt is not defined\n    at logout (C:\\Users\\manis\\Subx technologies\\backend\\src\\controllers\\authController.js:119:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-02-21T16:43:38.660Z","url":"/api/auth/logout"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:45:02.211Z"}
+{"level":"info","message":"User logged out: john@example.com","timestamp":"2026-02-21T16:45:18.375Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:46:33.897Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T16:48:48.475Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:07:11.001Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:08:42.029Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:09:38.693Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:14:07.864Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:15:47.190Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:18:45.453Z"}
+{"level":"info","message":"User logged out: john@example.com","timestamp":"2026-02-21T17:21:31.530Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:47:43.343Z"}
+{"level":"info","message":"User logged out: john@example.com","timestamp":"2026-02-21T17:47:56.805Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:49:42.690Z"}
+{"level":"info","message":"User logged out: john@example.com","timestamp":"2026-02-21T17:50:11.629Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:50:53.101Z"}
+{"level":"info","message":"User logged out: john@example.com","timestamp":"2026-02-21T17:51:05.055Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-21T17:52:14.251Z"}
+{"level":"info","message":"User logged out: john@example.com","timestamp":"2026-02-21T17:53:11.407Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T03:22:45.999Z"}
+{"level":"info","message":"User registered: manishjha@gmail.com","timestamp":"2026-02-22T03:27:05.430Z"}
+{"level":"info","message":"User logged in: manishjha@gmail.com","timestamp":"2026-02-22T03:27:05.685Z"}
+{"level":"info","message":"User logged out: manishjha@gmail.com","timestamp":"2026-02-22T03:35:03.660Z"}
+{"level":"info","message":"User registered: manish@gmail.com","timestamp":"2026-02-22T04:21:46.221Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:21:46.736Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T04:22:04.093Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:22:34.682Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:22:46.692Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:25:07.933Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:25:56.326Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:26:13.666Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:26:32.586Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:30:54.718Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:33:09.704Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:33:21.208Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:33:47.040Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:40:18.877Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T04:51:25.098Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T04:52:51.893Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T04:54:26.768Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T04:56:25.859Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T04:56:58.870Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:01:35.850Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:01:46.761Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:21:10.117Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:22:27.198Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:27:14.245Z"}
+{"level":"info","message":"User registered: testing@gmail.com","timestamp":"2026-02-22T05:29:07.770Z"}
+{"level":"info","message":"User logged in: testing@gmail.com","timestamp":"2026-02-22T05:29:08.072Z"}
+{"ip":"::1","level":"error","message":"Error: Redis client not initialized","method":"GET","stack":"Error: Redis client not initialized\n    at getRedisClient (C:\\Users\\manis\\Subx technologies\\backend\\src\\config\\redis.js:54:11)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:14:25)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)","timestamp":"2026-02-22T05:29:12.023Z","url":"/api/auth/me"}
+{"level":"info","message":"User logged in: testing@gmail.com","timestamp":"2026-02-22T05:29:27.907Z"}
+{"ip":"::1","level":"error","message":"Error: Redis client not initialized","method":"GET","stack":"Error: Redis client not initialized\n    at getRedisClient (C:\\Users\\manis\\Subx technologies\\backend\\src\\config\\redis.js:54:11)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:14:25)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)","timestamp":"2026-02-22T05:29:30.116Z","url":"/api/auth/me"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T05:29:58.638Z"}
+{"ip":"::1","level":"error","message":"Error: Redis client not initialized","method":"GET","stack":"Error: Redis client not initialized\n    at getRedisClient (C:\\Users\\manis\\Subx technologies\\backend\\src\\config\\redis.js:54:11)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:14:25)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)","timestamp":"2026-02-22T05:30:03.165Z","url":"/api/auth/me"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:31:01.175Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T05:36:32.256Z"}
+{"ip":"::1","level":"error","message":"Error: Redis client not initialized","method":"GET","stack":"Error: Redis client not initialized\n    at getRedisClient (C:\\Users\\manis\\Subx technologies\\backend\\src\\config\\redis.js:54:11)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:14:25)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)","timestamp":"2026-02-22T05:36:35.037Z","url":"/api/auth/me"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T05:39:12.186Z"}
+{"ip":"::1","level":"error","message":"Error: Redis client not initialized","method":"GET","stack":"Error: Redis client not initialized\n    at getRedisClient (C:\\Users\\manis\\Subx technologies\\backend\\src\\config\\redis.js:54:11)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:14:25)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)","timestamp":"2026-02-22T05:39:14.717Z","url":"/api/auth/me"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:39:20.217Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T05:42:20.055Z"}
+{"ip":"::1","level":"error","message":"Error: Redis client not initialized","method":"GET","stack":"Error: Redis client not initialized\n    at getRedisClient (C:\\Users\\manis\\Subx technologies\\backend\\src\\config\\redis.js:54:11)\n    at authenticateToken (C:\\Users\\manis\\Subx technologies\\backend\\src\\middleware\\auth.js:14:25)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\manis\\Subx technologies\\backend\\node_modules\\express\\lib\\router\\index.js:175:3)","timestamp":"2026-02-22T05:42:22.310Z","url":"/api/auth/me"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:43:47.801Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T05:44:47.388Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:45:55.926Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:50:57.131Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T05:53:09.923Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T05:53:23.636Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T05:56:15.445Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T05:56:45.601Z"}
+{"level":"info","message":"User registered: raj@gmail.com","timestamp":"2026-02-22T05:57:41.815Z"}
+{"level":"info","message":"User logged in: raj@gmail.com","timestamp":"2026-02-22T05:57:42.069Z"}
+{"level":"info","message":"User logged out: raj@gmail.com","timestamp":"2026-02-22T05:57:57.888Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T06:02:08.871Z"}
+{"level":"info","message":"User registered: user@gmail.com","timestamp":"2026-02-22T06:03:22.561Z"}
+{"level":"info","message":"User logged in: user@gmail.com","timestamp":"2026-02-22T06:03:22.813Z"}
+{"level":"info","message":"User logged out: user@gmail.com","timestamp":"2026-02-22T06:03:42.030Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T06:14:51.823Z"}
+{"level":"info","message":"User registered: test1@gamil.com","timestamp":"2026-02-22T06:16:10.935Z"}
+{"level":"info","message":"User logged in: test1@gamil.com","timestamp":"2026-02-22T06:16:11.373Z"}
+{"level":"info","message":"User logged out: test1@gamil.com","timestamp":"2026-02-22T06:16:28.105Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T06:21:13.210Z"}
+{"level":"info","message":"User registered: testuser@gmail.com","timestamp":"2026-02-22T06:22:30.414Z"}
+{"level":"info","message":"User logged in: testuser@gmail.com","timestamp":"2026-02-22T06:22:30.833Z"}
+{"level":"info","message":"User logged out: testuser@gmail.com","timestamp":"2026-02-22T06:22:43.370Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T06:27:00.560Z"}
+{"level":"info","message":"User registered: usertwo@gmail.com","timestamp":"2026-02-22T06:28:37.442Z"}
+{"level":"info","message":"User logged in: usertwo@gmail.com","timestamp":"2026-02-22T06:28:37.863Z"}
+{"level":"info","message":"User logged out: usertwo@gmail.com","timestamp":"2026-02-22T06:28:52.737Z"}
+{"level":"info","message":"User logged in: manish@gmail.com","timestamp":"2026-02-22T06:30:52.668Z"}
+{"level":"info","message":"User logged out: manish@gmail.com","timestamp":"2026-02-22T06:30:56.757Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2026-02-22T06:34:19.852Z"}
+{"level":"info","message":"User registered: mannish@gmail.com","timestamp":"2026-02-22T06:35:35.593Z"}
+{"level":"info","message":"User logged in: mannish@gmail.com","timestamp":"2026-02-22T06:35:36.067Z"}
+{"level":"info","message":"User logged out: mannish@gmail.com","timestamp":"2026-02-22T06:35:50.026Z"}
+{"level":"info","message":"User registered: userb@gmail.com","timestamp":"2026-02-22T06:48:01.160Z"}
+{"level":"info","message":"User logged in: userb@gmail.com","timestamp":"2026-02-22T06:48:01.594Z"}
+{"level":"info","message":"User logged out: userb@gmail.com","timestamp":"2026-02-22T06:48:15.081Z"}
+{"level":"info","message":"User logged in: userb@gmail.com","timestamp":"2026-02-22T06:49:10.168Z"}
+{"level":"info","message":"User logged out: userb@gmail.com","timestamp":"2026-02-22T06:49:20.872Z"}
+{"level":"info","message":"User registered: second@gmail.com","timestamp":"2026-02-22T06:56:55.812Z"}
+{"level":"info","message":"User logged in: second@gmail.com","timestamp":"2026-02-22T06:56:56.236Z"}
+{"level":"info","message":"User logged out: second@gmail.com","timestamp":"2026-02-22T06:57:11.092Z"}
+{"level":"info","message":"User logged in: second@gmail.com","timestamp":"2026-02-22T06:58:36.725Z"}
+{"level":"info","message":"User logged out: second@gmail.com","timestamp":"2026-02-22T06:58:39.016Z"}
